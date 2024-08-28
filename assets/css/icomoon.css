@@ -50,6 +50,9 @@
 .icon-twitter:before {
   content: "\e908";
 }
+.icon-telegram:before {
+  content: "\e93a"
+}
 .icon-facebook:before {
   content: "\e909";
 }
